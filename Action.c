@@ -20,5 +20,6 @@ Action()
 	truclient_step("7", "Click on Purchase Flight button", "snapshot=Action_7.inf");
 	lr_end_transaction("A104_PurchaseFlight",0);
 test123
+	sdsds
 	return 0;
 }
